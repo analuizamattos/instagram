@@ -1,0 +1,167 @@
+
+/* 
+    Created on : 19/03/2019, 09:35:40
+    Author     : 181710085
+*/
+
+#busca{
+    background-color: white;
+    margin: 0px;
+    padding: 50px;
+    
+    
+    
+}
+
+#menu{
+    background-color: white;
+    width: 500px;
+    margin: 0px;
+    padding: 50px;
+    margin: 0px auto;
+    
+}
+
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#fundoMenu{
+    width: 100%;
+    background-color: white;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: grey;
+}
+
+
+#TudoFoto{
+    
+    width: 500px;   
+    padding: 0px;
+    margin: 2px auto;
+}
+
+#DifUsu{
+    text-align: left;
+    text-decoration: black bold;
+}
+
+
+
+
+ .container{
+                width: 24%;
+                float: left;
+                padding: 200px 5px;
+                
+               
+                
+            }
+            
+            .usuario{
+                width: 559px;
+                height: auto;
+                font-size: 15px;
+                padding: 10%;
+                text-align: left;
+                background-color: white;
+                border-width: 1px 1px 0px 1px;
+                border-style: solid;
+                border-color: grey;
+                
+                
+                
+            }
+            
+                  
+            @media only screen and ( max-width: 500px){
+                .container{
+                    width: 100%;
+                    
+                   
+                }
+/*                .usuario{
+                    
+                    font-size: 22px;
+                    background-color: white;
+                    padding: 30px;
+                    border-width: 0px 1px 1px 1px;
+                    border-style: solid;
+                    border-color: grey;
+                       
+                    
+                }*/
+/*                .descricao{
+                    font-size: 22px;
+                    color: black;
+                    background-color: white;
+                    padding: 30px;
+                    
+                }*/
+            }
+            
+            
+/*            .foto img{
+                
+                inline-box-align: center;
+                
+                 
+            }*/
+            .descricao{
+                
+                width: 560px;
+                height: auto;
+                font-size: 15px;
+                padding: 10%;
+                text-align: left;
+                background-color: white;
+                border-width: 0px 1px 1px 1px;
+                border-style: solid;
+                border-color: grey;
+                
+
+                
+                
+                
+            }
+
+            
+             #menu{
+/*            width: 10px; height: 50px;*/
+        }
+        .foto img{
+            width: 30px;
+            height: 30px;
+            padding: 0px;           
+           
+            letter-spacing: 100;
+            
+
+        }
+        
+/*       #foto{
+            position: absolute;
+            left: 150px;
+        }*/
+        
+        
+        .foto a{
+            text-decoration:  black;
+            margin: 20px;
+            
+        }
+        
+        .pessoa{
+            .foto{
+                border: solid 2px red;
+            }
+            
+            
+            
+        }
+
+       
